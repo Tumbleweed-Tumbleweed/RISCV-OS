@@ -1,14 +1,3 @@
-# sp26_ece391_Fairless
+RISCV-OS
 
-## Team Information
-
-- Team Number: `team_34`
-- Team Name: `Fairless`
-
-## Members
-
-| NetID | GitHub |
-| --- | --- |
-| `acb12` | `AndByrnes` |
-| `Korimg2` | `Korimg2` |
-| `ns62` | `NicholasSlattery` |
+A single-core RISC-V architecture operating system written in C.
